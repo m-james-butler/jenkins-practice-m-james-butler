@@ -21,6 +21,7 @@ public class ServiceTests {
 	//Our service layers depends on the dao
 	private EmployeeDAOImpl edaoImpl;
 	
+	//add a comment
 	@Before
 	public void setup() {
 		edaoImpl = mock(EmployeeDAOImpl.class);
