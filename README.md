@@ -7,6 +7,7 @@
 2. Go to `connection.properties`.  Modify the `host` in the `JDBC URL` so that it reflects the endpoint to your RDS.
 3. We will first build a test suite to test our service layer within the `src/test/java` folder.
 5. After building the test suite, push all changes to this remore repository.
+6. And link it to jenkins
 
 <br>
 
